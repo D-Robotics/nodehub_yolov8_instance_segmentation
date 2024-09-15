@@ -1,1 +1,1 @@
-# nodehub_yolov8_instance_segmentation
+# nodehub_yolov8_object_detection
