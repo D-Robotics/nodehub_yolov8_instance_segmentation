@@ -1,7 +1,4 @@
 
-# YOLO
-
-
 ## 功能介绍
 
 YOLO目标检测算法示例使用图片作为输入，利用BPU进行算法推理，发布包含目标类别和检测框的算法msg。目前支持yolov2、yolov3、yolov5、yolov5x四个版本。
